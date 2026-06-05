@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+
+# Local Gmail OAuth secrets and authorization tokens.
+credentials.json
+client_secret*.json
+token.json
+
+# Local environments.
+.venv/
+venv/
+env/
+
+# Editor/OS noise.
+.DS_Store
+Thumbs.db
