@@ -1,6 +1,8 @@
 # Gmail Phishing Link Scanner
 
-This tool scans recent Gmail messages with the Gmail API, extracts links, and scores them for common phishing signals such as plain HTTP, IP-address links, URL shorteners, suspicious top-level domains, punycode, long encoded URLs, and account/security language.
+CLI phishing scanner in Python using the Gmail API.
+
+This tool scans recent Gmail messages, extracts links, and scores them for common phishing signals such as plain HTTP, IP-address links, URL shorteners, suspicious top-level domains, punycode, long encoded URLs, and account/security language.
 
 ## Setup
 
